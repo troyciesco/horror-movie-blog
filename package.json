@@ -11,7 +11,7 @@
   "dependencies": {
     "casper": "github:TryGhost/Casper#main",
     "zeebo": "github:troyciesco/ghost-theme-zeebo#main",
-    "ghost": "4.47.4",
+    "ghost": "5.44.0",
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
     "mysql2": "2.3.3"
